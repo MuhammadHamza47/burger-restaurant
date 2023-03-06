@@ -1,0 +1,87 @@
+#home-bg {
+    background: url(/Assets/Home_Assets/Group\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+ul{
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white !important
+}
+
+#order-btn1 {
+    border-radius: 100px;
+    padding: 5px 40px;
+    color: white;
+    background-color: #F64B3C;
+    border: none;
+    margin-bottom: 50px;
+}
+
+#chef-bg {
+    background-image: url(/Assets/chef_Assets/Design.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+#order-btn2 {
+    border-radius: 100px;
+    border: none;
+    padding: 5px 40px;
+    color: #F64B3C;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+#big-bg{
+    background-image: url(/Assets/Big_Assets/Design.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+#popular-bg{
+    background-image: url(/Assets/popular_Assets/Design.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+#grp-7{
+    background-image: url(/Assets/Image.png);
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    
+}
+#update{
+    background-image: url(/Assets/Design.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+#search{
+    background-color: #F64B3C;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 0px 100px 100px 0px;
+}
+#search-input{
+    border-radius: 100px 0px 0px 100px ;
+}
